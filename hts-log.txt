@@ -1,0 +1,75 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 17 Jul 2022 14:25:40 at https://www.pikashowdownload.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.pikashowdownload.com/ -O1 "G:\pikaashow\pika" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:25:47	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.pikashowdownload.com/detroitchicago/grapefruit.gif
+14:25:47	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.pikashowdownload.com/porpoiseant/army.gif
+14:26:21	Error: 	"Bad Request" (400) at link https://www.pikashowdownload.com/wp-admin/admin-ajax.php (from https://www.pikashowdownload.com/)
+14:27:11	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/audins.js (from https://www.pikashowdownload.com/)
+14:27:22	Error: 	"Method Not Allowed" (405) at link https://www.pikashowdownload.com/xmlrpc.php (from https://www.pikashowdownload.com/pikashow-download/)
+14:28:23	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/pikashow-download/audins.js (from https://www.pikashowdownload.com/pikashow-download/)
+14:28:50	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/pikashow-for-pc-download-for-windows-10-8-7-latest-version/audins.js (from https://www.pikashowdownload.com/pikashow-for-pc-download-for-windows-10-8-7-latest-version/)
+14:29:25	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/pikashow-for-ios/audins.js (from https://www.pikashowdownload.com/pikashow-for-ios/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/author/pikashowdownload_etiiok/audins.js (from https://www.pikashowdownload.com/author/pikashowdownload_etiiok/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/category/pikashow-download/audins.js (from https://www.pikashowdownload.com/category/pikashow-download/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-apk-download/audins.js (from https://www.pikashowdownload.com/tag/pikashow-apk-download/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-app-download/audins.js (from https://www.pikashowdownload.com/tag/pikashow-app-download/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-download/audins.js (from https://www.pikashowdownload.com/tag/pikashow-download/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-download-for-android/audins.js (from https://www.pikashowdownload.com/tag/pikashow-download-for-android/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-download-for-ios/audins.js (from https://www.pikashowdownload.com/tag/pikashow-download-for-ios/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-download-for-pc/audins.js (from https://www.pikashowdownload.com/tag/pikashow-download-for-pc/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-free-download/audins.js (from https://www.pikashowdownload.com/tag/pikashow-free-download/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/new-zealand-spinach-growing-this-leafy-green-thats-not-really-spinach/audins.js (from https://www.pikashowdownload.com/new-zealand-spinach-growing-this-leafy-green-thats-not-really-spinach/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/category/pikashow-for-pc/audins.js (from https://www.pikashowdownload.com/category/pikashow-for-pc/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-for-pc/audins.js (from https://www.pikashowdownload.com/tag/pikashow-for-pc/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-for-pc-download/audins.js (from https://www.pikashowdownload.com/tag/pikashow-for-pc-download/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-for-pc-free-download/audins.js (from https://www.pikashowdownload.com/tag/pikashow-for-pc-free-download/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-for-pc-latest-verion/audins.js (from https://www.pikashowdownload.com/tag/pikashow-for-pc-latest-verion/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-for-windows/audins.js (from https://www.pikashowdownload.com/tag/pikashow-for-windows/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-for-windows-10/audins.js (from https://www.pikashowdownload.com/tag/pikashow-for-windows-10/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/category/pikashow-for-ios/audins.js (from https://www.pikashowdownload.com/category/pikashow-for-ios/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-for-apple/audins.js (from https://www.pikashowdownload.com/tag/pikashow-for-apple/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-for-ios/audins.js (from https://www.pikashowdownload.com/tag/pikashow-for-ios/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-for-ios-download/audins.js (from https://www.pikashowdownload.com/tag/pikashow-for-ios-download/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-for-ios-free-download/audins.js (from https://www.pikashowdownload.com/tag/pikashow-for-ios-free-download/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-for-ipad/audins.js (from https://www.pikashowdownload.com/tag/pikashow-for-ipad/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-for-iphone/audins.js (from https://www.pikashowdownload.com/tag/pikashow-for-iphone/)
+14:31:18	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tag/pikashow-for-mac/audins.js (from https://www.pikashowdownload.com/tag/pikashow-for-mac/)
+14:33:07	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/author/pikashowdownload_etiiok/page/2/audins.js (from https://www.pikashowdownload.com/author/pikashowdownload_etiiok/page/2/)
+14:33:17	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/category/plant-tips/audins.js (from https://www.pikashowdownload.com/category/plant-tips/)
+14:33:17	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/round-zucchini-a-growing-guide-from-seed-to-harvest/audins.js (from https://www.pikashowdownload.com/round-zucchini-a-growing-guide-from-seed-to-harvest/)
+14:33:17	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/category/growing-tips/audins.js (from https://www.pikashowdownload.com/category/growing-tips/)
+14:33:17	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tall-perennials-adding-height-to-the-garden-with-bold-plants/audins.js (from https://www.pikashowdownload.com/tall-perennials-adding-height-to-the-garden-with-bold-plants/)
+14:33:27	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/category/flower-plants/audins.js (from https://www.pikashowdownload.com/category/flower-plants/)
+14:33:27	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/armenian-cucumber-a-productive-heat-tolerant-crop-for-the-food-garden/audins.js (from https://www.pikashowdownload.com/armenian-cucumber-a-productive-heat-tolerant-crop-for-the-food-garden/)
+14:33:27	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tulip-planting-depth-how-to-plant-your-tulip-bulbs-for-optimal-blooms/audins.js (from https://www.pikashowdownload.com/tulip-planting-depth-how-to-plant-your-tulip-bulbs-for-optimal-blooms/)
+14:33:27	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/growing-shishito-peppers-learn-how-to-grow-this-gourmet-crop/audins.js (from https://www.pikashowdownload.com/growing-shishito-peppers-learn-how-to-grow-this-gourmet-crop/)
+14:33:27	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/growing-romaine-lettuce-a-guide-from-seed-to-harvest/audins.js (from https://www.pikashowdownload.com/growing-romaine-lettuce-a-guide-from-seed-to-harvest/)
+14:33:55	Error: 	Exit requested by shell or user
+14:33:58	Warning: 	File not added due to mirror cancel: https://www.pikashowdownload.com/growing-loofah-gourds-learn-how-to-grow-your-own-loofah-sponges/audins.js
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/author/pikashowdownload_etiiok/page/3/audins.js (from https://www.pikashowdownload.com/author/pikashowdownload_etiiok/page/3/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/growing-dahlias-in-pots-tips-for-stunning-blooms-in-summer-containers/audins.js (from https://www.pikashowdownload.com/growing-dahlias-in-pots-tips-for-stunning-blooms-in-summer-containers/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/blue-hosta-varieties-for-the-perennial-garden/audins.js (from https://www.pikashowdownload.com/blue-hosta-varieties-for-the-perennial-garden/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/lacinato-kale-learn-how-to-grow-this-delicious-heirloom-kale/audins.js (from https://www.pikashowdownload.com/lacinato-kale-learn-how-to-grow-this-delicious-heirloom-kale/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/pink-perennials-for-the-garden-a-gradient-of-rosy-shades-from-pale-pink-to-fuchsia/audins.js (from https://www.pikashowdownload.com/pink-perennials-for-the-garden-a-gradient-of-rosy-shades-from-pale-pink-to-fuchsia/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/tomato-plant-suckers-when-and-how-to-prune-tomato-plants/audins.js (from https://www.pikashowdownload.com/tomato-plant-suckers-when-and-how-to-prune-tomato-plants/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/category/how-to-grow/audins.js (from https://www.pikashowdownload.com/category/how-to-grow/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/best-plants-for-an-office-room/audins.js (from https://www.pikashowdownload.com/best-plants-for-an-office-room/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/best-plants-for-a-bedroom/audins.js (from https://www.pikashowdownload.com/best-plants-for-a-bedroom/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/pruning-pepper-plants-for-improved-plant-health-and-yields/audins.js (from https://www.pikashowdownload.com/pruning-pepper-plants-for-improved-plant-health-and-yields/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/how-to-trim-basil-for-big-bushy-plants-and-larger-yields/audins.js (from https://www.pikashowdownload.com/how-to-trim-basil-for-big-bushy-plants-and-larger-yields/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/how-to-water-houseplants-correctly/audins.js (from https://www.pikashowdownload.com/how-to-water-houseplants-correctly/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/category/watering/audins.js (from https://www.pikashowdownload.com/category/watering/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/the-plants-which-do-not-need-sunlight/audins.js (from https://www.pikashowdownload.com/the-plants-which-do-not-need-sunlight/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/when-to-plant-sunflowers-3-options-for-lots-of-beautiful-blooms/audins.js (from https://www.pikashowdownload.com/when-to-plant-sunflowers-3-options-for-lots-of-beautiful-blooms/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/12-essential-gardening-tools-that-gardeners-should-have/audins.js (from https://www.pikashowdownload.com/12-essential-gardening-tools-that-gardeners-should-have/)
+14:33:58	Error: 	"Not Found" (404) at link https://www.pikashowdownload.com/how-to-grow-garlic-in-pots-the-best-method-for-success/audins.js (from https://www.pikashowdownload.com/how-to-grow-garlic-in-pots-the-best-method-for-success/)
+14:33:58	Warning: 	File not added due to mirror cancel: https://www.pikashowdownload.com/growing-loofah-gourds-learn-how-to-grow-your-own-loofah-sponges/audins.js
+14:33:58	Error: 	"mirror stopped by user" (-1) at link https://www.pikashowdownload.com/growing-loofah-gourds-learn-how-to-grow-your-own-loofah-sponges/audins.js (from https://www.pikashowdownload.com/growing-loofah-gourds-learn-how-to-grow-your-own-loofah-sponges/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 18 seconds : 306 links scanned, 246 files written (17702584 bytes overall) [14157704 bytes received at 28429 bytes/sec], 19357898 bytes transferred using HTTP compression in 289 files, ratio 70%
+(60 errors, 4 warnings, 0 messages)

@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	62d3d5c2-90eeb-c8c58-f350a
+www.pikashowdownload.com	TRUE	/	FALSE	1999999999	ezroute	1658050004.001.22029.641582|7b38e456571b7d946ac4e1de3284f1bf
+pikashowdownload.com	TRUE	/	FALSE	1999999999	ezoab_343040	mod1-c
+pikashowdownload.com	TRUE	/	FALSE	1999999999	ezoadgid_343040	-1
+pikashowdownload.com	TRUE	/	FALSE	1999999999	ezoref_343040	pikashowdownload.com
+pikashowdownload.com	TRUE	/	FALSE	1999999999	ezosuibasgeneris-1	28557037-ddc6-4648-5a73-f40e3d24662a
+www.pikashowdownload.com	TRUE	/	FALSE	1999999999	SameSite	None
+pikashowdownload.com	TRUE	/	FALSE	1999999999	active_template::343040	pub_site.1658050286
+pikashowdownload.com	TRUE	/	FALSE	1999999999	lp_343040	https://www.pikashowdownload.com/
+pikashowdownload.com	TRUE	/	FALSE	1999999999	ezovuuidtime_343040	1658050288
+pikashowdownload.com	TRUE	/	FALSE	1999999999	ezovuuid_343040	9be344a4-c6f6-450e-61c6-afbc18f79f69
+pikashowdownload.com	TRUE	/	FALSE	1999999999	ezopvc_343040	1
+
